@@ -1,4 +1,4 @@
-"use strict";
+
 
 // What is scoping :
 // Scoping basically asks the question that where do the variable lives and where can we acces that variable and where not>
